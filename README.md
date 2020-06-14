@@ -1,4 +1,4 @@
-# ZPlayed
+# ZPlayer
 A tiny media player designed by Trangle 
 to be extra small. ZPlayer interfaces 
 with Windows Media Player to play a variety
