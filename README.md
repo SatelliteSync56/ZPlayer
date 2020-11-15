@@ -7,4 +7,5 @@ the background and, without a user interface,
 be very hard to pause or terminate. The 
 uses for such a program might be playing 
 audio files on a low-end PC, or minimizing 
-interuption of an audio track. 
+interruption of an audio track. 
+Runs on Windows XP or later.
