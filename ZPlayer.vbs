@@ -2,7 +2,7 @@ Dim s
 Dim mediainit
 Set Sound = CreateObject("WMPlayer.OCX.7")
 Set wShell=CreateObject("WScript.Shell")
-s = MsgBox("ZPlayer by Trangle APG 2019, support development at trangleproject.wordpress.com",1,"ZPlayer 1.08")
+s = MsgBox("ZPlayer by Trangle, 2019, support development at trangleproject.wordpress.com",1,"ZPlayer 1.08")
 If s = 2 Then
 Wscript.Quit
 End If
